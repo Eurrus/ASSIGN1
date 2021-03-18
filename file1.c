@@ -2,7 +2,7 @@
 int main()
 {
   int a;
-  printf("Hello world,	Im in software lab assignment");
+  printf(Im in software lab assignment");
   scanf("%d",&a);
-  printf("%d",a+10);
+  printf("%d",sa);
 }
